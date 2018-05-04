@@ -13,6 +13,7 @@
 
 <script type="text/ecmascript-6">
     import './assets/todos.less'
+    import './assets/site.less'
     export default {
         name: 'app',
         data () {
